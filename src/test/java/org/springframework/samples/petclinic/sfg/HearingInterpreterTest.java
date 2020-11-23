@@ -17,6 +17,6 @@ public class HearingInterpreterTest {
 
     @Test
     public void whatIheard() {
-        assertEquals("Lauerl", hearingInterpreter.whatIheard());
+        assertEquals("Laurel", hearingInterpreter.whatIheard());
     }
 }
